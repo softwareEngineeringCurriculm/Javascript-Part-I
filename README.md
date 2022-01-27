@@ -1,10 +1,10 @@
-# [Hack Reactor](http://www.hackreactor.com): JavaScript 101 Workshop
+# [Hack Reactor](http://www.hackreactor.com): JavaScript Part I: Foundations of Programming - Workshop
 
 ## Overview
 
-#### Scheduled Length: 3 Hours
+#### Scheduled Length: 1.5 Hours
 
-Hey there! Ready to get your hands dirty with some code? This is the practice exercise repository for Hack Reactor's JavaScript 101 workshop. JavaScript 101 is the first lesson in our free, four-part Introductory JavaScript Series (101, 201, 301 and 401). We're excited to have you.
+Hey there! Ready to get your hands dirty with some code? This is the practice exercise repository for Hack Reactor's JavaScript Part I workshop. JavaScript Part I is the first lesson in our free, seven-part Introductory JavaScript Series. We're excited to have you.
 
 In order to complete these exercises, open [repl.it](https://repl.it/), choose JavaScript, and then write your code in the left-hand panel. You can run your code using the "Run" button.
 
@@ -13,10 +13,6 @@ In order to complete these exercises, open [repl.it](https://repl.it/), choose J
 **NEED HELP?** Practice developing your autonomy as a programmer. Use [Google Search](https://www.google.com) or [Stack Overflow](https://www.stackoverflow.com), peruse documentation at [mdn.io](https://www.mdn.io), or talk to your friendly neighbor. If you're utterly stuck, flag down your instructor for guidance.
 
 **_DISCLAIMER:_** _Completion of this workshop is no guarantee of admission into the Hack Reactor immersive program, nor does it have any influence in the admissions process._
-
-## Slides
-
-The slide deck for this workshop can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vShggHhyyF6jz1lQhQi5t8w397HqA7MLFU_-rgTRcgJY-cbkDRpzupGI9KLOF6QhMkPXtQ0B_HAol_n/pub?start=false&loop=false&delayms=3000).
 
 ## Exercises
 
@@ -28,11 +24,6 @@ _For your ease of access – click the following links for each section's practi
 
 - Part I: History, Usage and Development (no exercises)
 - Part II: [Foundations of Programming](./2-foundations-of-programming)
-- Part III: [Functions](./3-functions)
-
-## Exercise Solutions
-
-You may find reference solutions for this workshop's exercises on the `solutions` [branch](https://github.com/hackreactor/javascript_101/tree/solutions/) of this repository. Please do not refer to the solutions until you've given each problem set a valiant effort.
 
 ## Thinking about JavaScript
 
